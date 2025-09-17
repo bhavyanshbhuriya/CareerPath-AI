@@ -1,0 +1,15 @@
+Layer,Technology,Purpose,Learning_Curve
+Frontend,React.js,Dynamic UI Components,Medium
+Frontend,Progressive Web App (PWA),Offline Capability & Mobile Experience,Medium
+Frontend,Material-UI,Responsive Design System,Low
+Backend,Django REST Framework,API Development,Medium
+Backend,Python 3.9+,Core Business Logic,Low
+Backend,Celery (Task Queue),Background Task Processing,Medium
+AI/ML,TensorFlow/Keras,Deep Learning Models,High
+AI/ML,scikit-learn,Traditional ML Algorithms,Medium
+AI/ML,NLTK/spaCy,Natural Language Processing,Medium
+Database,PostgreSQL,Primary Data Storage,Low
+Database,Redis Cache,Session & Cache Management,Low
+Infrastructure,Docker,Containerization,Medium
+Infrastructure,AWS/Azure Cloud,Cloud Hosting & Scaling,Medium
+Security,Blockchain (Ethereum),Credential Verification,High
